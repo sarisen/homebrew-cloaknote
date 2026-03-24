@@ -1,6 +1,6 @@
 cask "cloaknote" do
   version "1.0.0"
-  sha256 "eb19ef82035f82ec683a415c904f8485be88542b4b03af161719d44a9ef1c119"
+  sha256 "b684581cce9f6b3438465f541b5c44d9ec8f0cd398b40c87f1f051f8f7337547"
 
   url "https://github.com/sarisen/CloakNote/releases/download/v#{version}/CloakNote-v#{version}.dmg"
   name "CloakNote"

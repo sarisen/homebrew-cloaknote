@@ -3,5 +3,5 @@
 Homebrew tap for CloakNote.
 
 ```bash
-brew install --cask sarisen/cloaknote/cloaknote
+brew install sarisen/cloaknote/cloaknote
 ```
